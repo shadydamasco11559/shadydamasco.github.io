@@ -40,6 +40,10 @@ hr.star-primary {
   border: none;
   border-top: solid 5px; }
 
+img.profile {
+  border-radius: 100%;
+}
+
 hr.star-light:after,
 hr.star-primary:after {
   font-family: FontAwesome;
