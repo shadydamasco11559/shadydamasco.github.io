@@ -80,7 +80,7 @@ section {
 
 section.success {
   color: white;
-  background: #18BC9C; }
+  background: black; }
 
 @media (max-width: 767px) {
   section {
