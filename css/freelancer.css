@@ -8,7 +8,6 @@ body {
   overflow-x: hidden; }
 
 p {
-  color: red;
   font-size: 20px; }
 
 p.small {
@@ -56,18 +55,18 @@ hr.star-primary:after {
   content: '\f005'; }
 
 hr.star-light {
-  border-color: black; }
+  border-color: white; }
 
 hr.star-light:after {
   color: white;
-  background-color: black; }
+  background-color: #18BC9C; }
 
 hr.star-primary {
   border-color: #2C3E50; }
 
 hr.star-primary:after {
   color: #2C3E50;
-  background-color: black; }
+  background-color: white; }
 
 .img-centered {
   margin: 0 auto; }
@@ -80,7 +79,7 @@ section {
 
 section.success {
   color: white;
-  background: black; }
+  background: #18BC9C; }
 
 @media (max-width: 767px) {
   section {
